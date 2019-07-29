@@ -336,8 +336,8 @@ input[type="submit"]:hover {
   text-align: center;
   font-weight: bold;
 }
-#contact_us_response_heading{
-    font-family: "Fira Sans", sans-serif;
+#contact_us_response_heading {
+  font-family: "Fira Sans", sans-serif;
   text-transform: uppercase;
   font-size: 30px;
   text-align: center;
@@ -346,7 +346,7 @@ input[type="submit"]:hover {
   margin-top: 10px;
 }
 
-.email_logo{
+.email_logo {
   width: 15%;
   height: 200px;
   margin-left: auto;
