@@ -38,7 +38,6 @@ li {
   color: rgb(78, 78, 78);
 }
 /* end full website */
-
 /* heading formats */
 h1 {
   font-size: 50px;
@@ -60,7 +59,6 @@ h2 {
   margin-left: 40px;
 }
 /* end heading formats */
-
 /* index page */
 .input {
   height: 4vw;
@@ -126,7 +124,6 @@ h2 {
   left: 0px;
   z-index: -1;
 }
-
 /* top bar */
 .logo_top {
   background: black;
@@ -153,7 +150,6 @@ h2 {
   width: 100%;
 }
 /* end top bar */
-
 /* botom bar */
 .logo_bottom {
   background: black;
@@ -171,12 +167,10 @@ h2 {
 .bottom_bar_link:hover {
   color: white;
 }
-
 .bottom_bar_link {
   color: gray;
 }
 /* end bottom bar */
-
 /* support pages */
 .top_support_heading {
   padding-bottom: 10px;
@@ -230,7 +224,6 @@ h2 {
   padding: 10px;
 }
 /* end support pages */
-
 /* accordian */
 .accordion {
   background-color: rgb(255, 255, 255);
@@ -275,7 +268,6 @@ h2 {
   border-radius: 10px;
 }
 /* end accordian */
-
 /* single thing */
 #list_question {
   color: blue;
@@ -301,7 +293,6 @@ textarea {
   resize: vertical;
   font-family: "Fira Sans", sans-serif;
 }
-
 input[type="submit"] {
   background-color: rgb(109, 170, 59);
   color: white;
@@ -312,11 +303,9 @@ input[type="submit"] {
   font-family: "Fira Sans", sans-serif;
   text-transform: uppercase;
 }
-
 input[type="submit"]:hover {
   background-color: #45a049;
 }
-
 .container {
   border-radius: 5px;
   background-color: #cccccc;
@@ -345,7 +334,6 @@ input[type="submit"]:hover {
   margin-bottom: 10px;
   margin-top: 10px;
 }
-
 .email_logo {
   width: 15%;
   height: 200px;
