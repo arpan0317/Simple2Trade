@@ -1,0 +1,417 @@
+[
+  {
+    "name": "How to register with Traderroom?",
+    "class": "link_search",
+    "link": "./Questions/q1ON.html",
+    "type": "Onboarding"
+  },
+  {
+    "name": "Do I need to agree on all the T&C statements to get registered with Traderroom?",
+    "class": "link_search",
+    "link": "./Questions/q2ON.html",
+    "type": "Onboarding"
+  },
+  {
+    "name": "I am not able to receive OTP, why?",
+    "class": "link_search",
+    "link": "./Questions/q3ON.html",
+    "type": "Onboarding"
+  },
+  {
+    "name": "How to regain the forgot password?",
+    "class": "link_search",
+    "link": "./Questions/q4ON.html",
+    "type": "Onboarding"
+  },
+  {
+    "name": "What is the difference between the given types of accounts?",
+    "class": "link_search",
+    "link": "./Questions/q6ON.html",
+    "type": "Onboarding"
+  },
+  {
+    "name": "How to complete onboarding process?",
+    "class": "link_search",
+    "link": "./Questions/q7ON.html",
+    "type": "Onboarding"
+  },
+  {
+    "name": "Is It mandatory to answer each question in Appropriateness Test? If yes, then why?",
+    "class": "link_search",
+    "link": "./Questions/q8ON.html",
+    "type": "Onboarding"
+  },
+  {
+    "name": "I failed the appropriateness test. Why?",
+    "class": "link_search",
+    "link": "./Questions/q9ON.html",
+    "type": "Onboarding"
+  },
+  {
+    "name": "How can I track the status of my onboarding application?",
+    "class": "link_search",
+    "link": "./Questions/q10ON.html",
+    "type": "Onboarding"
+  },
+  {
+    "name": "How much time does it takes to get reviewed?",
+    "class": "link_search",
+    "link": "./Questions/q11ON.html",
+    "type": "Onboarding"
+  },
+  {
+    "name": "How to create an account?",
+    "class": "link_search",
+    "link": "./Questions/q1ACC.html",
+    "type": "Account"
+  },
+  {
+    "name": "What are the eligibility criteria to open listed different types of accounts?",
+    "class": "link_search",
+    "link": "./Questions/q2ACC.html",
+    "type": "Account"
+  },
+  {
+    "name": "I am new to Forex Trading, what type of account should I open and how?",
+    "class": "link_search",
+    "link": "./Questions/q3ACC.html",
+    "type": "Account"
+  },
+  {
+    "name": "What is demo account? How does it function?",
+    "class": "link_search",
+    "link": "./Questions/q4ACC.html",
+    "type": "Account"
+  },
+  {
+    "name": "Where can I find the list of all my accounts?",
+    "class": "link_search",
+    "link": "./Questions/q5ACC.html",
+    "type": "Account"
+  },
+  {
+    "name": "How many accounts I can create? Is there any maximum limit?",
+    "class": "link_search",
+    "link": "./Questions/q7ACC.html",
+    "type": "Account"
+  },
+  {
+    "name": "How can I get statement(s) of my account(s)?",
+    "class": "link_search",
+    "link": "./Questions/q8ACC.html",
+    "type": "Account"
+  },
+  {
+    "name": "How can I change the password of my account(s)?",
+    "class": "link_search",
+    "link": "./Questions/q11ACC.html",
+    "type": "Account"
+  },
+  {
+    "name": "What does Earnings Statement reflect?",
+    "class": "link_search",
+    "link": "./Questions/q13ACC.html",
+    "type": "Account"
+  },
+  {
+    "name": "What does payables statement reflect?",
+    "class": "link_search",
+    "link": "./Questions/q14ACC.html",
+    "type": "Account"
+  },
+  {
+    "name": "How to download the statement?",
+    "class": "link_search",
+    "link": "./Questions/q15ACC.html",
+    "type": "Account"
+  },
+  {
+    "name": "How can I have data on dashboard for custom defined time period?",
+    "class": "link_search",
+    "link": "./Questions/q1DB.html",
+    "type": "Dashboard"
+  },
+  {
+    "name": "How to select the account(s) to reflect their data on dashboard page?",
+    "class": "link_search",
+    "link": "./Questions/q3DB.html",
+    "type": "Dashboard"
+  },
+  {
+    "name": "How to open a trade in OMS?",
+    "class": "link_search",
+    "link": "./Questions/q1OMS.html",
+    "type": "OMS"
+  },
+  {
+    "name": "How to close a trade in OMS?",
+    "class": "link_search",
+    "link": "./Questions/q2OMS.html",
+    "type": "OMS"
+  },
+
+  {
+    "name": "How to check the list of Open Trades?",
+    "class": "link_search",
+    "link": "./Questions/q4OMS.html",
+    "type": "OMS"
+  },
+
+  {
+    "name": "How to check the list of pending orders?",
+    "class": "link_search",
+    "link": "./Questions/q5OMS.html",
+    "type": "OMS"
+  },
+
+  {
+    "name": "How to set Take Profit/Stop Loss limit?",
+    "class": "link_search",
+    "link": "./Questions/q6OMS.html",
+    "type": "OMS"
+  },
+
+  {
+    "name": "How can I search for a currency pair in OMS?",
+    "class": "link_search",
+    "link": "./Questions/q7OMS.html",
+    "type": "OMS"
+  },
+
+  {
+    "name": "What does the chart denote available on the left side of OMS screen?",
+    "class": "link_search",
+    "link": "./Questions/q8OMS.html",
+    "type": "OMS"
+  },
+
+  {
+    "name": "How chart can be helpful to me?",
+    "class": "link_search",
+    "link": "./Questions/q9OMS.html",
+    "type": "OMS"
+  },
+
+  {
+    "name": "How to delete the pending order(s)?",
+    "class": "link_search",
+    "link": "./Questions/q10OMS.html",
+    "type": "OMS"
+  },
+  {
+    "name": "How to create an Invest Strategy?",
+    "class": "link_search",
+    "link": "./Questions/q1SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "How to create a social trading strategy?",
+    "class": "link_search",
+    "link": "./Questions/q2SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "How can I check my published strategies?",
+    "class": "link_search",
+    "link": "./Questions/q4SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "Where can I get the list of strategies to subscribe?",
+    "class": "link_search",
+    "link": "./Questions/q10SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "How to subscribe a strategy?",
+    "class": "link_search",
+    "link": "./Questions/q11SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "What is difference between PAM and MAM account?",
+    "class": "link_search",
+    "link": "./Questions/q15SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "How to have a look at Manager Orders?",
+    "class": "link_search",
+    "link": "./Questions/q17SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "How ROI% is calculated?",
+    "class": "link_search",
+    "link": "./Questions/q18SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "What is the average trade net profit?",
+    "class": "link_search",
+    "link": "./Questions/q19SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "How MaxDD% is calculated?",
+    "class": "link_search",
+    "link": "./Questions/q20SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "What is algo and mixed trading type? How it can help me to earn more?",
+    "class": "link_search",
+    "link": "./Questions/q25SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "What is a standard way to describe a strategy?",
+    "class": "link_search",
+    "link": "./Questions/q26SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "Can I keep minimum deposit as 0 or as much as I want?",
+    "class": "link_search",
+    "link": "./Questions/q27SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "Can you please help me understand the following terms? Active Funds, Active Margins, Unrealized PL, Active Equity, Equity, Realized PL, Investments",
+    "class": "link_search",
+    "link": "./Questions/q28SOC.html",
+    "type": "Social Investing"
+  },
+  {
+    "name": "How to fund my wallet?",
+    "class": "link_search",
+    "link": "./Questions/q1WAL.html",
+    "type": "My Wallet"
+  },
+  {
+    "name": "What all payment methods are available?",
+    "class": "link_search",
+    "link": "./Questions/q3WAL.html",
+    "type": "My Wallet"
+  },
+  {
+    "name": "How to withdraw money from My wallet?",
+    "class": "link_search",
+    "link": "./Questions/q4WAL.html",
+    "type": "My Wallet"
+  },
+  {
+    "name": "How much time does it takes for deposits approval?",
+    "class": "link_search",
+    "link": "./Questions/q5WAL.html",
+    "type": "My Wallet"
+  },
+  {
+    "name": "How much time does it takes for withdrawal approval?",
+    "class": "link_search",
+    "link": "./Questions/q6WAL.html",
+    "type": "My Wallet"
+  },
+  {
+    "name": "What is Forex Calculator. What is its significance?",
+    "class": "link_search",
+    "link": "./Questions/q8WAL.html",
+    "type": "My Wallet"
+  },
+  {
+    "name": "How to transfer funds between my different accounts?",
+    "class": "link_search",
+    "link": "./Questions/q9WAL.html",
+    "type": "My Wallet"
+  },
+  {
+    "name": "Can fund transfer happens between the account with different currencies? How?",
+    "class": "link_search",
+    "link": "./Questions/q10WAL.html",
+    "type": "My Wallet"
+  },
+  {
+    "name": "How to transfer funds from my wallet to my account(S) and vice versa?",
+    "class": "link_search",
+    "link": "./Questions/q11WAL.html",
+    "type": "My Wallet"
+  },
+  {
+    "name": "Where can I find my deposits and withdrawal history?",
+    "class": "link_search",
+    "link": "./Questions/q12WAL.html",
+    "type": "My Wallet"
+  },
+  {
+    "name": "I have put deposit/withdrawal request. Where I can check its status?",
+    "class": "link_search",
+    "link": "./Questions/q14WAL.html",
+    "type": "My Wallet"
+  },
+  {
+    "name": "How to View/Edit my profile page?",
+    "class": "link_search",
+    "link": "./Questions/q1MIS.html",
+    "type": "Miscellaneous"
+  },
+  {
+    "name": "How to promote my profile page?",
+    "class": "link_search",
+    "link": "./Questions/q2MIS.html",
+    "type": "Miscellaneous"
+  },
+  {
+    "name": "How can I change the language to my preferred one?",
+    "class": "link_search",
+    "link": "./Questions/q4MIS.html",
+    "type": "Miscellaneous"
+  },
+  {
+    "name": "What is help desk?",
+    "class": "link_search",
+    "link": "./Questions/q5MIS.html",
+    "type": "Miscellaneous"
+  },
+  {
+    "name": "How to raise a service request?",
+    "class": "link_search",
+    "link": "./Questions/q6MIS.html",
+    "type": "Miscellaneous"
+  },
+  {
+    "name": "How to check the status of raised service request?",
+    "class": "link_search",
+    "link": "./Questions/q7MIS.html",
+    "type": "Miscellaneous"
+  },
+  {
+    "name": "Where can I find the list of my open and closed service requests?",
+    "class": "link_search",
+    "link": "./Questions/q8MIS.html",
+    "type": "Miscellaneous"
+  },
+  {
+    "name": "How can I attach a file/doc/picture to my service request?",
+    "class": "link_search",
+    "link": "./Questions/q9MIS.html",
+    "type": "Miscellaneous"
+  },
+  {
+    "name": "How much time does it takes to resolve a request?",
+    "class": "link_search",
+    "link": "./Questions/q10MIS.html",
+    "type": "Miscellaneous"
+  },
+  {
+    "name": "How to delete the attachment (In case, I have attached a wrong one)?",
+    "class": "link_search",
+    "link": "./Questions/q11MIS.html",
+    "type": "Miscellaneous"
+  },
+  {
+    "name": "What are different types of service requests?",
+    "class": "link_search",
+    "link": "./Questions/q12MIS.html",
+    "type": "Miscellaneous"
+  }
+]
